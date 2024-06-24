@@ -1,0 +1,6 @@
+@Legit.Service_HostAddress = http://localhost:5243
+
+GET {{Legit.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

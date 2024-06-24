@@ -1,0 +1,12 @@
+/Users/droach/csharp/legit/Legit.Core/bin/Debug/net8.0/Legit.Core.deps.json
+/Users/droach/csharp/legit/Legit.Core/bin/Debug/net8.0/Legit.Core.dll
+/Users/droach/csharp/legit/Legit.Core/bin/Debug/net8.0/Legit.Core.pdb
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.AssemblyInfoInputs.cache
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.AssemblyInfo.cs
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.csproj.CoreCompileInputs.cache
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.sourcelink.json
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.dll
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/refint/Legit.Core.dll
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/Legit.Core.pdb
+/Users/droach/csharp/legit/Legit.Core/obj/Debug/net8.0/ref/Legit.Core.dll
