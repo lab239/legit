@@ -1,1 +1,0 @@
--v --force --timestamp=none --sign - --entitlements /Users/droach/csharp/legit/LegitApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/droach/csharp/legit/LegitApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/LegitApp.app
